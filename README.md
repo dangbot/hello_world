@@ -1,2 +1,7 @@
 # hello_world
-It's about time Dan learned about version control
+
+Hey Dan,
+
+It's about time you learned about version control :D
+
+- Future Dan
